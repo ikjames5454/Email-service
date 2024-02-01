@@ -1,0 +1,18 @@
+#Database
+MY_SQL_USERNAME: root
+MY_SQL_PASSWORD: ikenna5454
+MY_SQL_HOST: localhost
+MY_SQL_PORT: 3306
+MY_SQL_DB: Email_service?createDatabaseIfNotExist=TRUE
+
+
+#Server
+SERVER_PORT: 8080
+ACTIVE_PROFILE: dev
+
+#Email Config
+EMAIL_HOST: smtp.gmail.com
+EMAIL_PORT: 587
+EMAIL_ID: ikennajames03@gmail.com
+EMAIL_PASSWORD: awxz kcbg zmdp exgg
+VERIFY_EMAIL_HOST: http://localhost:${SERVER_PORT}
